@@ -21,4 +21,4 @@
 
 ## Warning
 
-This document is under early stage development. If you find errors, please raise an [issue](#) or [contribute](#).
+This document is under early stage development. If you find errors, please raise an [issue](https://github.com/rabi-shankar/Java-Study-Material/issues) or [contribute](https://github.com/rabi-shankar/Java-Study-Material/blob/master/README.md).
