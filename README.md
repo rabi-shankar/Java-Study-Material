@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Java Study Material list
 
-You can use the [editor on GitHub](https://github.com/rabi-shankar/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. The Java™ Tutorial: [https://docs.oracle.com/javase/tutorial/index.html](https://docs.oracle.com/javase/tutorial/index.html)
+2. Java wiki book: [https://en.wikibooks.org/wiki/Java_Programming/Print_version](https://en.wikibooks.org/wiki/Java_Programming/Print_version)
+3. Java EE Tutorials: [https://www.journaldev.com/java-tutorial-java-ee-tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+4. Online Java compiler: [https://www.jdoodle.com/online-java-compiler](https://www.jdoodle.com/online-java-compiler)
+5. Youtube Javaboynavin: [https://www.youtube.com/user/javaboynavin/](https://www.youtube.com/user/javaboynavin/)
+6. Google Style Guide: [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)
+7. A serious programmer needs to know about algorithms and data structures: [https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)
+8. official GitHub repository: [https://javaee.github.io/tutorial/toc.html](https://javaee.github.io/tutorial/toc.html)
+9. Subscription to Java Magazine: [http://www.javamagazine.mozaicreader.com/](http://www.javamagazine.mozaicreader.com/)
+10. blogs Oracle: [https://blogs.oracle.com/](https://blogs.oracle.com/)
+11. The JDK Bug System (JBS): [https://bugs.openjdk.java.net/](https://bugs.openjdk.java.net/)
+12. Open JDK (The place to collaborate on an open-source implementation of the Java Platform, Standard Edition, and related projects.): [http://openjdk.java.net/](http://openjdk.java.net/)
+13. Oracle Java office YouTube channel: [https://www.youtube.com/user/java/playlists](https://www.youtube.com/user/java/playlists)
+14. Question Answer: [http://www.answers.com/Q/Java_language_is_developed_in_which_programming_language](http://www.answers.com/Q/Java_language_is_developed_in_which_programming_language)
+15. AP Computer Science A (Java):[https://teamscode.com/learn/ap-computer-science/](https://teamscode.com/learn/ap-computer-science/)
+16.Tutorialpoints (Youtube): (Jave Date and time) : [https://www.youtube.com/watch?v=8Lq7Hv6tTSM&list=PLWPirh4EWFpFIMNqBrNPTKfYYQoGJvMT6](https://www.youtube.com/watch?v=8Lq7Hv6tTSM&list=PLWPirh4EWFpFIMNqBrNPTKfYYQoGJvMT6)
+17. TutorialPoints (YouTube)(Java Essentials):[https://www.youtube.com/watch?v=TE2qYd-4CyI&list=PLWPirh4EWFpErPIVe3nIAet9TDxx1pBcd](https://www.youtube.com/watch?v=TE2qYd-4CyI&list=PLWPirh4EWFpErPIVe3nIAet9TDxx1pBcd)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Warning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rabi-shankar/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This document is under early stage development. If you find errors, please raise an [issue](#) or [contribute](#).
